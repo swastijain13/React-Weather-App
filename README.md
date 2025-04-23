@@ -25,6 +25,8 @@ npm install
 
 ### 3. Add your API KEY (VisualCrossing Weather API)
 
+#### or use api key : "S9N8STKQMMB8PZEUGCJKEWEF8"
+
 .config.py
 
 ```
