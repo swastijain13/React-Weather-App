@@ -4,6 +4,10 @@ A weather forecast web app built with **React**, **TypeScript**, and **TailwindC
 
 ---
 
+## 🖥️ Screenshot
+
+![App Screenshot](./assets/app_ss.png)
+
 ## 🚀 Setup Instructions
 
 ### 1. Clone the Repository
